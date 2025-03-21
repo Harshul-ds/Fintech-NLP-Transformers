@@ -29,7 +29,7 @@ var/
 .venv
 venv/
 ENV/
-
+ftenv/
 # VS Code
 .vscode/
 
