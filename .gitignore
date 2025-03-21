@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Distribution / packaging
+.env
+.venv
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Model files and data
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+data/raw/
+data/processed/
+data/external/
+
+# Logs and outputs
+logs/
+*.log 
