@@ -1,8 +1,11 @@
-# Fintech-NLP-Transformers 🧠💰
-**Transformer-based NLP for Financial Sentiment Analysis**
+# Financial Sentiment Analysis Platform 🧠💰
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
 
-A production-ready NLP pipeline specialized for financial market analysis, leveraging state-of-the-art transformer models to extract actionable insights from unstructured financial data.
+![Financial NLP Pipeline](https://raw.githubusercontent.com/Harshul-ds/Fintech-NLP-Transformers/main/assets/nlp_pipeline.png)
+
+A production-grade platform for extracting actionable insights from financial text using transformer models. This system transforms unstructured market data into quantifiable signals for trading and risk management.
 
 ## Business Impact
 
